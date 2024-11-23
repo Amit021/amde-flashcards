@@ -1,0 +1,307 @@
+[
+    {
+        "stack_name": "B1.1 Basic 1",
+        "words": [
+            {
+                "german": "beeinflussen",
+                "translation": "to influence",
+                "sentence": "Medien können die Meinung der Menschen beeinflussen.",
+                "sentence_translation": "Media can influence people's opinions."
+            },
+            {
+                "german": "das Erlebnis",
+                "translation": "experience",
+                "sentence": "Der Urlaub war ein tolles Erlebnis.",
+                "sentence_translation": "The vacation was a great experience."
+            },
+            {
+                "german": "entwickeln",
+                "translation": "to develop",
+                "sentence": "Das Unternehmen entwickelt neue Technologien.",
+                "sentence_translation": "The company develops new technologies."
+            },
+            {
+                "german": "neugierig",
+                "translation": "curious",
+                "sentence": "Das Kind ist sehr neugierig auf die Welt.",
+                "sentence_translation": "The child is very curious about the world."
+            },
+            {
+                "german": "teilnehmen",
+                "translation": "to participate",
+                "sentence": "Ich möchte an dem Kurs teilnehmen.",
+                "sentence_translation": "I want to participate in the course."
+            },
+            {
+                "german": "die Herausforderung",
+                "translation": "challenge",
+                "sentence": "Die neue Aufgabe ist eine Herausforderung.",
+                "sentence_translation": "The new task is a challenge."
+            },
+            {
+                "german": "verantwortlich",
+                "translation": "responsible",
+                "sentence": "Er ist für das Projekt verantwortlich.",
+                "sentence_translation": "He is responsible for the project."
+            },
+            {
+                "german": "respektieren",
+                "translation": "to respect",
+                "sentence": "Man sollte die Meinung anderer respektieren.",
+                "sentence_translation": "One should respect the opinions of others."
+            },
+            {
+                "german": "die Freiheit",
+                "translation": "freedom",
+                "sentence": "Freiheit ist ein grundlegendes Menschenrecht.",
+                "sentence_translation": "Freedom is a fundamental human right."
+            },
+            {
+                "german": "begeistert",
+                "translation": "enthusiastic",
+                "sentence": "Sie ist begeistert von ihrem neuen Job.",
+                "sentence_translation": "She is enthusiastic about her new job."
+            },
+            {
+                "german": "das Interesse",
+                "translation": "interest",
+                "sentence": "Er hat großes Interesse an Musik.",
+                "sentence_translation": "He has a great interest in music."
+            },
+            {
+                "german": "zufällig",
+                "translation": "by chance",
+                "sentence": "Wir haben uns zufällig getroffen.",
+                "sentence_translation": "We met by chance."
+            },
+            {
+                "german": "sparen",
+                "translation": "to save (money)",
+                "sentence": "Ich spare Geld für eine Reise.",
+                "sentence_translation": "I am saving money for a trip."
+            },
+            {
+                "german": "pünktlich",
+                "translation": "punctual",
+                "sentence": "Der Zug ist heute pünktlich.",
+                "sentence_translation": "The train is punctual today."
+            },
+            {
+                "german": "die Fähigkeit",
+                "translation": "ability",
+                "sentence": "Sie hat die Fähigkeit, schnell zu lernen.",
+                "sentence_translation": "She has the ability to learn quickly."
+            },
+            {
+                "german": "erwarten",
+                "translation": "to expect",
+                "sentence": "Wir erwarten gutes Wetter am Wochenende.",
+                "sentence_translation": "We expect good weather on the weekend."
+            },
+            {
+                "german": "notwendig",
+                "translation": "necessary",
+                "sentence": "Es ist notwendig, einen Termin zu vereinbaren.",
+                "sentence_translation": "It is necessary to make an appointment."
+            },
+            {
+                "german": "die Diskussion",
+                "translation": "discussion",
+                "sentence": "Die Diskussion war sehr interessant.",
+                "sentence_translation": "The discussion was very interesting."
+            },
+            {
+                "german": "faulenzen",
+                "translation": "to laze around",
+                "sentence": "Am Sonntag möchte ich einfach nur faulenzen.",
+                "sentence_translation": "On Sunday I just want to laze around."
+            },
+            {
+                "german": "widersprechen",
+                "translation": "to contradict",
+                "sentence": "Er musste ihr in diesem Punkt widersprechen.",
+                "sentence_translation": "He had to contradict her on this point."
+            },
+            {
+                "german": "ordentlich",
+                "translation": "tidy",
+                "sentence": "Bitte halte dein Zimmer ordentlich.",
+                "sentence_translation": "Please keep your room tidy."
+            },
+            {
+                "german": "bewundern",
+                "translation": "to admire",
+                "sentence": "Ich bewundere seine Geduld.",
+                "sentence_translation": "I admire his patience."
+            },
+            {
+                "german": "die Eigenschaft",
+                "translation": "characteristic",
+                "sentence": "Geduld ist eine wichtige Eigenschaft.",
+                "sentence_translation": "Patience is an important characteristic."
+            },
+            {
+                "german": "handeln",
+                "translation": "to act",
+                "sentence": "Wir müssen jetzt schnell handeln.",
+                "sentence_translation": "We must act quickly now."
+            },
+            {
+                "german": "vergleichen",
+                "translation": "to compare",
+                "sentence": "Man sollte Preise vergleichen, bevor man kauft.",
+                "sentence_translation": "One should compare prices before buying."
+            },
+            {
+                "german": "verletzen",
+                "translation": "to injure",
+                "sentence": "Er hat sich beim Sport verletzt.",
+                "sentence_translation": "He injured himself during sports."
+            },
+            {
+                "german": "gemütlich",
+                "translation": "cozy",
+                "sentence": "Das Café ist sehr gemütlich.",
+                "sentence_translation": "The café is very cozy."
+            },
+            {
+                "german": "die Wissenschaft",
+                "translation": "science",
+                "sentence": "Er interessiert sich für Wissenschaft.",
+                "sentence_translation": "He is interested in science."
+            },
+            {
+                "german": "zuverlässig",
+                "translation": "reliable",
+                "sentence": "Sie ist eine sehr zuverlässige Kollegin.",
+                "sentence_translation": "She is a very reliable colleague."
+            },
+            {
+                "german": "die Zukunft",
+                "translation": "future",
+                "sentence": "Niemand kennt die Zukunft.",
+                "sentence_translation": "No one knows the future."
+            },
+            {
+                "german": "die Grenze",
+                "translation": "border",
+                "sentence": "Wir überquerten die Grenze bei Nacht.",
+                "sentence_translation": "We crossed the border at night."
+            },
+            {
+                "german": "warnen",
+                "translation": "to warn",
+                "sentence": "Das Schild warnt vor Gefahr.",
+                "sentence_translation": "The sign warns of danger."
+            },
+            {
+                "german": "die Politik",
+                "translation": "politics",
+                "sentence": "Sie studiert Politik an der Universität.",
+                "sentence_translation": "She studies politics at the university."
+            },
+            {
+                "german": "die Stadt",
+                "translation": "city",
+                "sentence": "Berlin ist eine große Stadt.",
+                "sentence_translation": "Berlin is a large city."
+            },
+            {
+                "german": "die Kultur",
+                "translation": "culture",
+                "sentence": "Die deutsche Kultur ist vielfältig.",
+                "sentence_translation": "German culture is diverse."
+            },
+            {
+                "german": "das Projekt",
+                "translation": "project",
+                "sentence": "Wir arbeiten an einem neuen Projekt.",
+                "sentence_translation": "We are working on a new project."
+            },
+            {
+                "german": "die Erfahrung",
+                "translation": "experience",
+                "sentence": "Er hat viel Erfahrung in diesem Bereich.",
+                "sentence_translation": "He has a lot of experience in this field."
+            },
+            {
+                "german": "die Information",
+                "translation": "information",
+                "sentence": "Die Information ist sehr nützlich.",
+                "sentence_translation": "The information is very useful."
+            },
+            {
+                "german": "die Leistung",
+                "translation": "performance",
+                "sentence": "Seine Leistung war ausgezeichnet.",
+                "sentence_translation": "His performance was excellent."
+            },
+            {
+                "german": "die Gelegenheit",
+                "translation": "opportunity",
+                "sentence": "Dies ist eine gute Gelegenheit für dich.",
+                "sentence_translation": "This is a good opportunity for you."
+            },
+            {
+                "german": "die Zusammenarbeit",
+                "translation": "collaboration",
+                "sentence": "Die Zusammenarbeit zwischen den Teams ist wichtig.",
+                "sentence_translation": "Collaboration between the teams is important."
+            },
+            {
+                "german": "die Entscheidung",
+                "translation": "decision",
+                "sentence": "Die Entscheidung liegt bei dir.",
+                "sentence_translation": "The decision is up to you."
+            },
+            {
+                "german": "die Unterstützung",
+                "translation": "support",
+                "sentence": "Ich danke dir für deine Unterstützung.",
+                "sentence_translation": "I thank you for your support."
+            },
+            {
+                "german": "die Entwicklung",
+                "translation": "development",
+                "sentence": "Die Entwicklung der Technologie ist schnell.",
+                "sentence_translation": "The development of technology is fast."
+            },
+            {
+                "german": "die Verantwortung",
+                "translation": "responsibility",
+                "sentence": "Er übernimmt die Verantwortung für das Projekt.",
+                "sentence_translation": "He takes responsibility for the project."
+            },
+            {
+                "german": "die Beziehung",
+                "translation": "relationship",
+                "sentence": "Ihre Beziehung ist sehr stark.",
+                "sentence_translation": "Their relationship is very strong."
+            },
+            {
+                "german": "die Möglichkeit",
+                "translation": "possibility",
+                "sentence": "Es gibt viele Möglichkeiten, dieses Problem zu lösen.",
+                "sentence_translation": "There are many possibilities to solve this problem."
+            },
+            {
+                "german": "die Gesellschaft",
+                "translation": "society",
+                "sentence": "Die Gesellschaft verändert sich ständig.",
+                "sentence_translation": "Society is constantly changing."
+            },
+            {
+                "german": "das Ziel",
+                "translation": "goal",
+                "sentence": "Er hat sein Ziel erreicht.",
+                "sentence_translation": "He has achieved his goal."
+            },
+            {
+                "german": "die Gemeinschaft",
+                "translation": "community",
+                "sentence": "Eine starke Gemeinschaft kann viel erreichen.",
+                "sentence_translation": "A strong community can achieve a lot."
+            }
+        ]
+    }
+]

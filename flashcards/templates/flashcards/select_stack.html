@@ -1,0 +1,47 @@
+<!-- flashcards/templates/flashcards/select_stack.html -->
+
+{% extends "flashcards/base.html" %}
+
+{% block content %}
+<section class="section">
+    <div class="container">
+        <h1 class="title has-text-centered mb-6">Select a Stack to Study</h1>
+        
+        <div class="columns is-multiline is-centered">
+            {% for stack in stacks %}
+            <div class="column is-full-mobile is-half-tablet is-one-third-desktop mb-5">
+                <div class="card">
+                    <div class="card-content has-text-centered">
+                        <!-- Stack Name -->
+                        <p class="title is-5">{{ stack.name }}</p>
+                        
+                        <!-- Mastered Words Count -->
+                        <p class="subtitle is-6 has-text-grey">
+                            {{ stack.mastered_words }} of {{ stack.total_words }} words mastered
+                        </p>
+                        
+                        <!-- Progress Bar -->
+                        <progress class="progress" value="{{ stack.percentage }}" max="100">
+                            {{ stack.percentage }}%
+                        </progress>
+                        
+                        <!-- Practice Button -->
+                        <form method="post" class="mt-4">
+                            {% csrf_token %}
+                            <input type="hidden" name="stack_id" value="{{ stack.id }}">
+                            <button type="submit" class="button is-outlined is-fullwidth">
+                                Practice this stack &rarr;
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            {% empty %}
+            <div class="column is-full">
+                <p class="has-text-centered">No stacks available. Please create a new stack.</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endblock %}

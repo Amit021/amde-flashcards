@@ -1,0 +1,94 @@
+<!-- flashcards/templates/flashcards/base.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>German Flashcards</title>
+    {% load static %}
+    
+    <!-- Bulma CSS via CDN -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{% static 'flashcards/styles.css' %}">
+</head>
+<body>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="#">
+                <strong>German Flashcards</strong>
+            </a>
+    
+            <!-- Burger menu for mobile -->
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+    
+        <div id="navbarMenu" class="navbar-menu">
+            <div class="navbar-end">
+                {% if user.is_authenticated %}
+                    <!-- Change Stack Link -->
+                    <a class="navbar-item" href="{% url 'select_stack' %}">
+                        Change Stack
+                    </a>
+    
+                    <!-- Reset Progress Form -->
+                    <form method="POST" action="{% url 'reset_progress' %}" class="navbar-item">
+                        {% csrf_token %}
+                        <button type="submit" class="button is-small is-danger is-outlined">
+                            Reset Progress
+                        </button>
+                    </form>
+    
+                    <!-- Logout Link -->
+                    <a class="navbar-item" href="{% url 'account_logout' %}">
+                        Logout
+                    </a>
+                {% else %}
+                    <a class="navbar-item" href="{% url 'account_login' %}">
+                        Login
+                    </a>
+                    <a class="navbar-item" href="{% url 'account_signup' %}">
+                        Sign Up
+                    </a>
+                {% endif %}
+            </div>
+        </div>
+    </nav>
+    
+
+    <!-- Main Content Container -->
+    <section class="section">
+        <div class="container">
+            {% block content %}
+            {% endblock %}
+        </div>
+    </section>
+
+    <!-- Bulma Navbar Burger Script -->
+    <script>
+        // Navbar Burger Toggle
+        document.addEventListener('DOMContentLoaded', () => {
+            const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+            if ($navbarBurgers.length > 0) {
+                $navbarBurgers.forEach(el => {
+                    el.addEventListener('click', () => {
+                        const target = el.dataset.target;
+                        const $target = document.getElementById(target);
+                        el.classList.toggle('is-active');
+                        $target.classList.toggle('is-active');
+                    });
+                });
+            }
+        });
+    </script>
+</body>
+</html>

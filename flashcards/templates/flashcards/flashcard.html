@@ -1,0 +1,263 @@
+<!-- flashcards/templates/flashcards/flashcard.html -->
+
+{% extends 'flashcards/base.html' %}
+
+{% block content %}
+<div class="columns is-centered">
+    <div class="column is-half">
+        <!-- Display the stack name -->
+        <h3 class="title is-3 has-text-centered">Stack: {{ stack.name }}</h3>
+
+        <!-- Flashcard Container -->
+        <div class="card mb-5" id="flashcard">
+            <div class="card-inner">
+                <!-- Front of the Card -->
+                <div class="card-front">
+                    <div class="card-content">
+                        <!-- Status Label -->
+                        <div class="word-status {{ word_status|lower }}">
+                            {{ word_status }}
+                        </div>
+
+                        <!-- Cross Button with Enhanced Tooltip -->
+                        <form method="POST" class="cross-form">
+                            {% csrf_token %}
+                            <input type="hidden" name="word_id" value="{{ word.id }}">
+                            <input type="hidden" name="skip" value="true"> <!-- Hidden input for skip -->
+                            <button type="submit" class="cross-button" aria-label="Already know the word?">
+                                &times; <!-- HTML entity for 'X' -->
+                                <div class="cross-tooltip">
+                                    Already know the word?<br>
+                                    <span class="tooltip-small-text">Clicking cross will change the word status to mastered.</span>
+                                </div>
+                            </button>
+                        </form>
+
+                        <!-- Centered German Word or Infinitive -->
+                        <div class="content has-text-centered">
+                            {% if is_verb %}
+                                <!-- Infinitive Form for Verbs -->
+                                <p class="title is-2">{{ infinitive }}</p>
+                            {% else %}
+                                <!-- Full German Word for Non-Verbs -->
+                                <p class="title is-2">{{ word.german }}</p>
+                            {% endif %}
+
+                            <!-- Pronounce Mic Icon -->
+                            <span id="pronounce-btn" class="icon is-large mt-3" style="cursor: pointer;" aria-label="Pronounce the German word" tabindex="0">
+                                <i class="fas fa-microphone fa-2x"></i>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Back of the Card -->
+                <div class="card-back">
+                    <div class="card-content">
+                        {% if is_verb %}
+                            <!-- For Verbs: Show Conjugations -->
+                            <div class="media-content has-text-centered">
+                                <!-- English Translation -->
+                                <h4 class="title is-5">{{ word.translation }}</h4>
+                                
+                                <!-- Conjugations -->
+                                <p class="subtitle is-6 mt-2"><strong>Conjugations:</strong> {{ conjugations }}</p>
+
+                                {% if word.sentence %}
+                                    <hr>
+                                    <!-- German Sentence and Pronunciation Icon -->
+                                    <div class="is-flex is-align-items-center is-justify-content-center">
+                                        <p>{{ word.sentence }}</p>
+                                        <span id="pronounce-sentence-btn" class="icon is-medium ml-2" style="cursor: pointer;" aria-label="Pronounce the example sentence" tabindex="0">
+                                            <i class="fas fa-microphone fa-lg"></i>
+                                        </span>
+                                    </div>
+                                    {% if word.sentence_translation %}
+                                        <!-- English Translation of the Sentence -->
+                                        <p class="has-text-centered">{{ word.sentence_translation }}</p>
+                                    {% endif %}
+                                {% endif %}
+
+                                <!-- Action Buttons -->
+                                <form method="POST" class="buttons is-centered mt-4">
+                                    {% csrf_token %}
+                                    <input type="hidden" name="word_id" value="{{ word.id }}">
+                                    <button type="submit" name="known" value="true" class="button is-success">Known</button>
+                                    <button type="submit" name="known" value="false" class="button is-danger">Unknown</button>
+                                </form>
+                            </div>
+                        {% else %}
+                            <!-- For Non-Verbs: Show as Before -->
+                            <div class="media-content has-text-centered">
+                                <!-- English Translation -->
+                                <h4 class="title is-5">{{ word.translation }}</h4>
+
+                                {% if word.sentence %}
+                                    <hr>
+                                    <!-- German Sentence and Pronunciation Icon -->
+                                    <div class="is-flex is-align-items-center is-justify-content-center">
+                                        <p>{{ word.sentence }}</p>
+                                        <span id="pronounce-sentence-btn" class="icon is-medium ml-2" style="cursor: pointer;" aria-label="Pronounce the example sentence" tabindex="0">
+                                            <i class="fas fa-microphone fa-lg"></i>
+                                        </span>
+                                    </div>
+                                    {% if word.sentence_translation %}
+                                        <!-- English Translation of the Sentence -->
+                                        <p class="has-text-centered">{{ word.sentence_translation }}</p>
+                                    {% endif %}
+                                {% endif %}
+
+                                <!-- Action Buttons -->
+                                <form method="POST" class="buttons is-centered mt-4">
+                                    {% csrf_token %}
+                                    <input type="hidden" name="word_id" value="{{ word.id }}">
+                                    <button type="submit" name="known" value="true" class="button is-success">Known</button>
+                                    <button type="submit" name="known" value="false" class="button is-danger">Unknown</button>
+                                </form>
+                            </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Progress Bars Below the Flashcard -->
+        <div class="mt-5">
+            <h4 class="subtitle is-6">Progress</h4>
+
+            <!-- Learning Progress -->
+            <div class="progress-item mb-3">
+                <div class="progress progress-learning">
+                    <!-- Filled Portion -->
+                    <div class="progress-bar" style="width: {{ progress.learning }}%;"></div>
+                    <!-- Text Overlay -->
+                    <div class="progress-text">
+                        <span class="progress-status">Learning</span>
+                        <span class="progress-count">{{ progress.counts.learning }}</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Reviewing Progress -->
+            <div class="progress-item mb-3">
+                <div class="progress progress-reviewing">
+                    <!-- Filled Portion -->
+                    <div class="progress-bar" style="width: {{ progress.reviewing }}%;"></div>
+                    <!-- Text Overlay -->
+                    <div class="progress-text">
+                        <span class="progress-status">Reviewing</span>
+                        <span class="progress-count">{{ progress.counts.reviewing }}</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Mastered Progress -->
+            <div class="progress-item mb-3">
+                <div class="progress progress-mastered">
+                    <!-- Filled Portion -->
+                    <div class="progress-bar" style="width: {{ progress.mastered }}%;"></div>
+                    <!-- Text Overlay -->
+                    <div class="progress-text">
+                        <span class="progress-status">Mastered</span>
+                        <span class="progress-count">{{ progress.counts.mastered }}</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- JavaScript Section -->
+<script>
+    // Card Flip Functionality
+    document.getElementById('flashcard').addEventListener('click', function() {
+        this.classList.toggle('flipped');
+    });
+
+    // Pronunciation Scripts
+    function selectGoogleDeutschVoice() {
+        if (typeof speechSynthesis === 'undefined') {
+            return null;
+        }
+
+        var voices = speechSynthesis.getVoices();
+        var selectedVoice = null;
+
+        // Attempt to find Google Deutsch voice
+        for (var i = 0; i < voices.length; i++) {
+            if (voices[i].name.includes('Google Deutsch')) {
+                selectedVoice = voices[i];
+                break;
+            }
+        }
+
+        // If Google Deutsch not found, fallback to any German voice
+        if (!selectedVoice) {
+            for (var i = 0; i < voices.length; i++) {
+                if (voices[i].lang === 'de-DE') {
+                    selectedVoice = voices[i];
+                    break;
+                }
+            }
+        }
+
+        return selectedVoice;
+    }
+
+    // Pronunciation Script for the German Word
+    document.getElementById('pronounce-btn').addEventListener('click', function(event) {
+        event.stopPropagation(); // Prevent card flip when clicking the icon
+        if ('speechSynthesis' in window) {
+            // Cancel any ongoing speech
+            speechSynthesis.cancel();
+
+            var utterance = new SpeechSynthesisUtterance('{{ infinitive|escapejs }}');
+            utterance.lang = 'de-DE';  // Set language to German
+
+            // Select Google Deutsch voice if available
+            var selectedVoice = selectGoogleDeutschVoice();
+            if (selectedVoice) {
+                utterance.voice = selectedVoice;
+            }
+
+            // Handle speech synthesis
+            speechSynthesis.speak(utterance);
+        } else {
+            alert('Sorry, your browser does not support text-to-speech.');
+        }
+    });
+
+    // Pronunciation Script for the Example Sentence (Optional)
+    {% if word.sentence %}
+    document.getElementById('pronounce-sentence-btn').addEventListener('click', function(event) {
+        event.stopPropagation(); // Prevent card flip when clicking the icon
+        if ('speechSynthesis' in window) {
+            // Cancel any ongoing speech
+            speechSynthesis.cancel();
+
+            var utterance = new SpeechSynthesisUtterance('{{ word.sentence|escapejs }}');
+            utterance.lang = 'de-DE';  // Set language to German
+
+            // Select Google Deutsch voice if available
+            var selectedVoice = selectGoogleDeutschVoice();
+            if (selectedVoice) {
+                utterance.voice = selectedVoice;
+            }
+
+            // Handle speech synthesis
+            speechSynthesis.speak(utterance);
+        } else {
+            alert('Sorry, your browser does not support text-to-speech.');
+        }
+    });
+    {% endif %}
+
+    // Ensure voices are loaded before attempting to select
+    if ('speechSynthesis' in window && speechSynthesis.onvoiceschanged !== undefined) {
+        speechSynthesis.onvoiceschanged = function() {
+            // Voices are loaded, no action needed as selection happens on button click
+        };
+    }
+</script>
+{% endblock %}

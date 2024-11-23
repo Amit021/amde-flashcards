@@ -1,0 +1,307 @@
+[
+    {
+        "stack_name": "B1.1 Basic 4",
+        "words": [
+            {
+                "german": "vertrauen, vertraut, vertraute, hat vertraut",
+                "translation": "to trust",
+                "sentence": "Manchmal muss man einfach seinem Instinkt vertrauen, auch wenn es schwerfällt.",
+                "sentence_translation": "Sometimes you just have to trust your instincts, even if it's difficult."
+            },
+            {
+                "german": "kochen, kocht, kochte, hat gekocht",
+                "translation": "to cook",
+                "sentence": "Beim Kochen kann ich wunderbar entspannen und meine Sorgen vergessen.",
+                "sentence_translation": "When cooking, I can wonderfully relax and forget my worries."
+            },
+            {
+                "german": "respektieren, respektiert, respektierte, hat respektiert",
+                "translation": "to respect",
+                "sentence": "Es ist wichtig, andere Meinungen zu respektieren, auch wenn man sie nicht teilt.",
+                "sentence_translation": "It's important to respect other opinions, even if you don't share them."
+            },
+            {
+                "german": "trinken, trinkt, trank, hat getrunken",
+                "translation": "to drink",
+                "sentence": "Nach dem langen Lauf hat sie ein großes Glas Wasser getrunken.",
+                "sentence_translation": "After the long run, she drank a big glass of water."
+            },
+            {
+                "german": "sprechen, spricht, sprach, hat gesprochen",
+                "translation": "to speak",
+                "sentence": "Er spricht fließend drei Sprachen, was ihm viele Türen öffnet.",
+                "sentence_translation": "He speaks three languages fluently, which opens many doors for him."
+            },
+            {
+                "german": "die Gesundheit",
+                "translation": "health",
+                "sentence": "Ohne Gesundheit ist alles nichts, sagte meine Großmutter immer.",
+                "sentence_translation": "Without health, everything is nothing, my grandmother always said."
+            },
+            {
+                "german": "die Liebe",
+                "translation": "love",
+                "sentence": "Liebe ist das einzige, was sich verdoppelt, wenn man es teilt.",
+                "sentence_translation": "Love is the only thing that doubles when you share it."
+            },
+            {
+                "german": "sich erinnern, erinnert sich, erinnerte sich, hat sich erinnert",
+                "translation": "to remember",
+                "sentence": "Er erinnert sich gern an seine unbeschwerte Kindheit auf dem Land.",
+                "sentence_translation": "He likes to remember his carefree childhood in the countryside."
+            },
+            {
+                "german": "wählen, wählt, wählte, hat gewählt",
+                "translation": "to choose",
+                "sentence": "Man kann nicht immer seine Umstände wählen, aber man kann seine Einstellung wählen.",
+                "sentence_translation": "You can't always choose your circumstances, but you can choose your attitude."
+            },
+            {
+                "german": "sich entscheiden, entscheidet sich, entschied sich, hat sich entschieden",
+                "translation": "to decide",
+                "sentence": "Sie hat sich entschieden, einen neuen Weg zu gehen und etwas Neues zu wagen.",
+                "sentence_translation": "She decided to take a new path and try something new."
+            },
+            {
+                "german": "helfen, hilft, half, hat geholfen",
+                "translation": "to help",
+                "sentence": "Anderen zu helfen gibt mir ein gutes Gefühl und bereichert mein Leben.",
+                "sentence_translation": "Helping others gives me a good feeling and enriches my life."
+            },
+            {
+                "german": "die Welt",
+                "translation": "world",
+                "sentence": "Die Welt ist ein Buch, und wer nicht reist, liest nur eine Seite.",
+                "sentence_translation": "The world is a book, and those who do not travel read only one page."
+            },
+            {
+                "german": "fliegen, fliegt, flog, ist geflogen",
+                "translation": "to fly",
+                "sentence": "Das erste Mal zu fliegen war für ihn ein unvergessliches Erlebnis.",
+                "sentence_translation": "Flying for the first time was an unforgettable experience for him."
+            },
+            {
+                "german": "hoffen, hofft, hoffte, hat gehofft",
+                "translation": "to hope",
+                "sentence": "Er hofft auf eine bessere Zukunft für seine Kinder.",
+                "sentence_translation": "He hopes for a better future for his children."
+            },
+            {
+                "german": "das Problem, -e",
+                "translation": "problem",
+                "sentence": "Für jedes Problem gibt es eine Lösung, man muss sie nur finden.",
+                "sentence_translation": "For every problem, there is a solution; you just have to find it."
+            },
+            {
+                "german": "sterben, stirbt, starb, ist gestorben",
+                "translation": "to die",
+                "sentence": "Als sein Großvater starb, fühlte er eine große Leere in sich.",
+                "sentence_translation": "When his grandfather died, he felt a great emptiness inside."
+            },
+            {
+                "german": "planen, plant, plante, hat geplant",
+                "translation": "to plan",
+                "sentence": "Sie plant ihre Zukunft sorgfältig, um ihre Träume zu verwirklichen.",
+                "sentence_translation": "She plans her future carefully to realize her dreams."
+            },
+            {
+                "german": "sich freuen, freut sich, freute sich, hat sich gefreut",
+                "translation": "to be happy",
+                "sentence": "Er freut sich riesig auf den Urlaub am Meer.",
+                "sentence_translation": "He is really looking forward to the vacation by the sea."
+            },
+            {
+                "german": "erreichen, erreicht, erreichte, hat erreicht",
+                "translation": "to achieve",
+                "sentence": "Nach Jahren harter Arbeit hat sie endlich ihr Ziel erreicht.",
+                "sentence_translation": "After years of hard work, she finally achieved her goal."
+            },
+            {
+                "german": "leben, lebt, lebte, hat gelebt",
+                "translation": "to live",
+                "sentence": "Er lebt jeden Tag, als wäre es sein letzter.",
+                "sentence_translation": "He lives every day as if it were his last."
+            },
+            {
+                "german": "kommunizieren, kommuniziert, kommunizierte, hat kommuniziert",
+                "translation": "to communicate",
+                "sentence": "In einer Beziehung ist es wichtig, offen zu kommunizieren.",
+                "sentence_translation": "In a relationship, it's important to communicate openly."
+            },
+            {
+                "german": "die Meinung, -en",
+                "translation": "opinion",
+                "sentence": "Es ist wichtig, seine eigene Meinung zu haben und sie zu äußern.",
+                "sentence_translation": "It's important to have your own opinion and to express it."
+            },
+            {
+                "german": "ändern, ändert, änderte, hat geändert",
+                "translation": "to change",
+                "sentence": "Wenn du etwas ändern willst, musst du bei dir selbst anfangen.",
+                "sentence_translation": "If you want to change something, you have to start with yourself."
+            },
+            {
+                "german": "reparieren, repariert, reparierte, hat repariert",
+                "translation": "to repair",
+                "sentence": "Er hat sein Fahrrad selbst repariert und war stolz auf sich.",
+                "sentence_translation": "He repaired his bike himself and was proud of himself."
+            },
+            {
+                "german": "wachsen, wächst, wuchs, ist gewachsen",
+                "translation": "to grow",
+                "sentence": "Die Erfahrung hat ihn als Mensch wachsen lassen.",
+                "sentence_translation": "The experience made him grow as a person."
+            },
+            {
+                "german": "der Kollege, -n",
+                "translation": "colleague",
+                "sentence": "Mit netten Kollegen macht die Arbeit gleich viel mehr Spaß.",
+                "sentence_translation": "With nice colleagues, work is much more fun."
+            },
+            {
+                "german": "danken, dankt, dankte, hat gedankt",
+                "translation": "to thank",
+                "sentence": "Ich möchte dir von Herzen danken für deine Hilfe.",
+                "sentence_translation": "I want to thank you from the bottom of my heart for your help."
+            },
+            {
+                "german": "glauben, glaubt, glaubte, hat geglaubt",
+                "translation": "to believe",
+                "sentence": "Wenn du an dich glaubst, kannst du alles schaffen.",
+                "sentence_translation": "If you believe in yourself, you can achieve anything."
+            },
+            {
+                "german": "akzeptieren, akzeptiert, akzeptierte, hat akzeptiert",
+                "translation": "to accept",
+                "sentence": "Sie musste akzeptieren, dass nicht alles nach Plan läuft.",
+                "sentence_translation": "She had to accept that not everything goes according to plan."
+            },
+            {
+                "german": "sich fühlen, fühlt sich, fühlte sich, hat sich gefühlt",
+                "translation": "to feel (oneself)",
+                "sentence": "Nach dem Urlaub fühle ich mich erholt und energiegeladen.",
+                "sentence_translation": "After the vacation, I feel rested and energetic."
+            },
+            {
+                "german": "die Verantwortung, -en",
+                "translation": "responsibility",
+                "sentence": "Als Teamleiter trägt er viel Verantwortung.",
+                "sentence_translation": "As a team leader, he carries a lot of responsibility."
+            },
+            {
+                "german": "die Freiheit, -en",
+                "translation": "freedom",
+                "sentence": "Freiheit ist ein hohes Gut, das es zu schützen gilt.",
+                "sentence_translation": "Freedom is a high good that must be protected."
+            },
+            {
+                "german": "die Sicherheit",
+                "translation": "safety; security",
+                "sentence": "Die Sicherheit der Passagiere hat oberste Priorität.",
+                "sentence_translation": "The safety of the passengers has top priority."
+            },
+            {
+                "german": "gehören, gehört, gehörte, hat gehört",
+                "translation": "to belong",
+                "sentence": "Das Buch gehört mir, bitte gib es mir zurück.",
+                "sentence_translation": "The book belongs to me; please give it back to me."
+            },
+            {
+                "german": "der Freund, -e",
+                "translation": "friend",
+                "sentence": "Ein wahrer Freund ist in schweren Zeiten für dich da.",
+                "sentence_translation": "A true friend is there for you in difficult times."
+            },
+            {
+                "german": "die Zeit, -en",
+                "translation": "time",
+                "sentence": "Die Zeit vergeht wie im Flug, wenn man Spaß hat.",
+                "sentence_translation": "Time flies when you're having fun."
+            },
+            {
+                "german": "bleiben, bleibt, blieb, ist geblieben",
+                "translation": "to stay; to remain",
+                "sentence": "Wir bleiben heute zu Hause und entspannen uns.",
+                "sentence_translation": "We are staying home today and relaxing."
+            },
+            {
+                "german": "brauchen, braucht, brauchte, hat gebraucht",
+                "translation": "to need",
+                "sentence": "Ich brauche deine Hilfe bei dieser Aufgabe.",
+                "sentence_translation": "I need your help with this task."
+            },
+            {
+                "german": "wünschen, wünscht, wünschte, hat gewünscht",
+                "translation": "to wish",
+                "sentence": "Ich wünsche dir alles Gute zum Geburtstag!",
+                "sentence_translation": "I wish you all the best for your birthday!"
+            },
+            {
+                "german": "bekommen, bekommt, bekam, hat bekommen",
+                "translation": "to get; to receive",
+                "sentence": "Sie hat zum Geburtstag ein Fahrrad bekommen.",
+                "sentence_translation": "She received a bicycle for her birthday."
+            },
+            {
+                "german": "schreiben, schreibt, schrieb, hat geschrieben",
+                "translation": "to write",
+                "sentence": "Er schreibt gerade an seinem ersten Roman.",
+                "sentence_translation": "He is currently writing his first novel."
+            },
+            {
+                "german": "finden, findet, fand, hat gefunden",
+                "translation": "to find",
+                "sentence": "Endlich habe ich meine verlorenen Schlüssel gefunden.",
+                "sentence_translation": "I finally found my lost keys."
+            },
+            {
+                "german": "bezahlen, bezahlt, bezahlte, hat bezahlt",
+                "translation": "to pay",
+                "sentence": "Ich habe die Rechnung bereits bezahlt.",
+                "sentence_translation": "I have already paid the bill."
+            },
+            {
+                "german": "dauern, dauert, dauerte, hat gedauert",
+                "translation": "to last; to take (time)",
+                "sentence": "Die Fahrt dauert etwa zwei Stunden.",
+                "sentence_translation": "The journey takes about two hours."
+            },
+            {
+                "german": "sich interessieren, interessiert sich, interessierte sich, hat sich interessiert",
+                "translation": "to be interested",
+                "sentence": "Er interessiert sich sehr für Kunst und Kultur.",
+                "sentence_translation": "He is very interested in art and culture."
+            },
+            {
+                "german": "sich treffen, trifft sich, traf sich, hat sich getroffen",
+                "translation": "to meet",
+                "sentence": "Wir treffen uns morgen um 15 Uhr im Café.",
+                "sentence_translation": "We are meeting tomorrow at 3 pm in the café."
+            },
+            {
+                "german": "die Möglichkeit, -en",
+                "translation": "possibility; opportunity",
+                "sentence": "Es gibt viele Möglichkeiten, dieses Problem zu lösen.",
+                "sentence_translation": "There are many ways to solve this problem."
+            },
+            {
+                "german": "zeigen, zeigt, zeigte, hat gezeigt",
+                "translation": "to show",
+                "sentence": "Kannst du mir bitte den Weg zum Bahnhof zeigen?",
+                "sentence_translation": "Can you please show me the way to the train station?"
+            },
+            {
+                "german": "fühlen, fühlt, fühlte, hat gefühlt",
+                "translation": "to feel",
+                "sentence": "Nach dem Gespräch fühlte er sich viel besser.",
+                "sentence_translation": "After the conversation, he felt much better."
+            },
+            {
+                "german": "gründen, gründet, gründete, hat gegründet",
+                "translation": "to found; to establish",
+                "sentence": "Sie hat eine erfolgreiche Firma gegründet.",
+                "sentence_translation": "She founded a successful company."
+            }
+        ]
+    }
+]

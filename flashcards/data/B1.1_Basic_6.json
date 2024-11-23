@@ -1,0 +1,307 @@
+[
+    {
+        "stack_name": "B1.1 Basic 6",
+        "words": [
+            {
+                "german": "verlieben, verliebt, verliebte, hat verliebt",
+                "translation": "to fall in love",
+                "sentence": "Trotz aller Unterschiede habe ich mich unsterblich in sie verliebt.",
+                "sentence_translation": "Despite all differences, I have fallen deeply in love with her."
+            },
+            {
+                "german": "die Versichertenkarte, -n",
+                "translation": "health insurance card",
+                "sentence": "Vergessen Sie nicht, Ihre Versichertenkarte zum Arzttermin mitzunehmen.",
+                "sentence_translation": "Don't forget to take your health insurance card to the doctor's appointment."
+            },
+            {
+                "german": "die Versicherung, -en",
+                "translation": "insurance",
+                "sentence": "Es ist klug, eine Reiseversicherung abzuschließen, bevor Sie ins Ausland reisen.",
+                "sentence_translation": "It's wise to take out travel insurance before traveling abroad."
+            },
+            {
+                "german": "versorgen, versorgt, versorgte, hat versorgt",
+                "translation": "to take care of",
+                "sentence": "Nach dem Unfall musste er seine Familie alleine versorgen.",
+                "sentence_translation": "After the accident, he had to take care of his family alone."
+            },
+            {
+                "german": "die Verspätung, -en",
+                "translation": "delay",
+                "sentence": "Trotz der Verspätung gelang es uns rechtzeitig zum wichtigen Meeting zu kommen.",
+                "sentence_translation": "Despite the delay, we managed to arrive on time for the important meeting."
+            },
+            {
+                "german": "verstecken, versteckt, versteckte, hat versteckt",
+                "translation": "to hide",
+                "sentence": "Er hat das Geschenk gut versteckt, sodass seine Schwester es nicht finden konnte.",
+                "sentence_translation": "He hid the gift well so that his sister couldn't find it."
+            },
+            {
+                "german": "verständlich",
+                "translation": "understandable",
+                "sentence": "Nach einem langen Arbeitstag ist es verständlich, dass er müde ist.",
+                "sentence_translation": "After a long day at work, it's understandable that he is tired."
+            },
+            {
+                "german": "das Verständnis",
+                "translation": "understanding",
+                "sentence": "Wir bitten um Ihr Verständnis für die kurzfristige Änderung der Termine.",
+                "sentence_translation": "We ask for your understanding regarding the last-minute change of appointments."
+            },
+            {
+                "german": "der Versuch, -e",
+                "translation": "attempt; experiment",
+                "sentence": "Sein erster Versuch, einen Kuchen zu backen, endete in einer Katastrophe.",
+                "sentence_translation": "His first attempt to bake a cake ended in a disaster."
+            },
+            {
+                "german": "verteilen, verteilt, verteilte, hat verteilt",
+                "translation": "to distribute",
+                "sentence": "Die Freiwilligen verteilen die Lebensmittelpakete an die Bedürftigen.",
+                "sentence_translation": "The volunteers distribute food packages to those in need."
+            },
+            {
+                "german": "der Vertrag, -e",
+                "translation": "contract",
+                "sentence": "Bevor Sie den Vertrag unterschreiben, sollten Sie alle Klauseln sorgfältig lesen.",
+                "sentence_translation": "Before signing the contract, you should carefully read all the clauses."
+            },
+            {
+                "german": "das Vertrauen",
+                "translation": "trust",
+                "sentence": "Das Vertrauen zwischen den Teammitgliedern war der Schlüssel zum Erfolg des Projekts.",
+                "sentence_translation": "The trust between the team members was the key to the project's success."
+            },
+            {
+                "german": "vertreten, vertritt, vertrat, hat vertreten",
+                "translation": "to represent; to substitute",
+                "sentence": "Während seines Urlaubs wird seine Kollegin ihn in allen Meetings vertreten.",
+                "sentence_translation": "During his vacation, his colleague will represent him in all meetings."
+            },
+            {
+                "german": "der Vertreter, -",
+                "translation": "representative; substitute",
+                "sentence": "Der Vertreter der Firma präsentierte die neuen Produkte auf der Messe.",
+                "sentence_translation": "The company's representative presented the new products at the trade fair."
+            },
+            {
+                "german": "die Vertretung, -en",
+                "translation": "substitution; representation",
+                "sentence": "Die Vertretung des Lehrers erklärte den Unterrichtsstoff ausführlich.",
+                "sentence_translation": "The substitute teacher explained the lesson material in detail."
+            },
+            {
+                "german": "verurteilen, verurteilt, verurteilte, hat verurteilt",
+                "translation": "to sentence; to condemn",
+                "sentence": "Das Gericht verurteilte den Angeklagten zu fünf Jahren Haft.",
+                "sentence_translation": "The court sentenced the defendant to five years in prison."
+            },
+            {
+                "german": "der Verlust, -e",
+                "translation": "loss",
+                "sentence": "Der Verlust seines Haustieres hat ihn sehr traurig gemacht.",
+                "sentence_translation": "The loss of his pet made him very sad."
+            },
+            {
+                "german": "vermeiden, vermeidet, vermied, hat vermieden",
+                "translation": "to avoid",
+                "sentence": "Um Stress zu vermeiden, plant sie regelmäßige Pausen während des Arbeitstages.",
+                "sentence_translation": "To avoid stress, she plans regular breaks during the workday."
+            },
+            {
+                "german": "vermieten, vermietet, vermietete, hat vermietet",
+                "translation": "to rent out",
+                "sentence": "Das Haus wurde schnell vermietet, da es in einer begehrten Lage liegt.",
+                "sentence_translation": "The house was rented out quickly because it is located in a sought-after area."
+            },
+            {
+                "german": "der Vermieter, -",
+                "translation": "landlord",
+                "sentence": "Unser Vermieter ist sehr freundlich und reagiert schnell auf Reparaturanfragen.",
+                "sentence_translation": "Our landlord is very friendly and responds quickly to repair requests."
+            },
+            {
+                "german": "vermissen, vermisst, vermisste, hat vermisst",
+                "translation": "to miss",
+                "sentence": "Seitdem er ins Ausland gezogen ist, vermisse ich seine Gesellschaft sehr.",
+                "sentence_translation": "Since he moved abroad, I really miss his company."
+            },
+            {
+                "german": "die Vermittlung, -en",
+                "translation": "agency; mediation",
+                "sentence": "Die Vermittlung half ihm, schnell eine neue Arbeitsstelle zu finden.",
+                "sentence_translation": "The agency helped him quickly find a new job."
+            },
+            {
+                "german": "vernünftig",
+                "translation": "reasonable",
+                "sentence": "Es ist vernünftig, einen Notfallplan für unerwartete Situationen zu haben.",
+                "sentence_translation": "It's reasonable to have an emergency plan for unexpected situations."
+            },
+            {
+                "german": "verschieben, verschiebt, verschob, hat verschoben",
+                "translation": "to postpone",
+                "sentence": "Aufgrund des schlechten Wetters mussten wir das Picknick leider verschieben.",
+                "sentence_translation": "Due to the bad weather, we unfortunately had to postpone the picnic."
+            },
+            {
+                "german": "verschieden",
+                "translation": "different; various",
+                "sentence": "Die Geschmäcker der Menschen sind sehr verschieden, was zu interessanten Diskussionen führt.",
+                "sentence_translation": "People's tastes are very different, which leads to interesting discussions."
+            },
+            {
+                "german": "verschreiben, verschreibt, verschrieb, hat verschrieben",
+                "translation": "to prescribe",
+                "sentence": "Der Arzt verschrieb ihm ein neues Medikament gegen die Kopfschmerzen.",
+                "sentence_translation": "The doctor prescribed him a new medication for the headaches."
+            },
+            {
+                "german": "verschwinden, verschwindet, verschwand, ist verschwunden",
+                "translation": "to disappear",
+                "sentence": "Nachdem er den Raum verlassen hatte, verschwand er plötzlich aus meinem Blickfeld.",
+                "sentence_translation": "After leaving the room, he suddenly disappeared from my sight."
+            },
+            {
+                "german": "versichern, versichert, versicherte, hat versichert",
+                "translation": "to insure",
+                "sentence": "Es ist ratsam, Ihr Auto gegen Diebstahl und Schäden zu versichern.",
+                "sentence_translation": "It's advisable to insure your car against theft and damage."
+            },
+            {
+                "german": "versichert sein",
+                "translation": "to be insured",
+                "sentence": "Es ist wichtig, dass jeder Bürger in der Gesellschaft versichert ist.",
+                "sentence_translation": "It's important that every citizen in society is insured."
+            },
+            {
+                "german": "verpassen, verpasst, verpasste, hat verpasst",
+                "translation": "to miss",
+                "sentence": "Er hat den Bus verpasst und musste lange auf den nächsten warten.",
+                "sentence_translation": "He missed the bus and had to wait a long time for the next one."
+            },
+            {
+                "german": "verpflichtet sein",
+                "translation": "to be obliged",
+                "sentence": "Als Mitglied sind Sie verpflichtet, an den regelmäßigen Treffen teilzunehmen.",
+                "sentence_translation": "As a member, you are obliged to attend the regular meetings."
+            },
+            {
+                "german": "verreisen, verreist, verreiste, ist verreist",
+                "translation": "to go on a trip",
+                "sentence": "Während der Ferien verreist sie jedes Jahr in ein anderes Land.",
+                "sentence_translation": "During the holidays, she travels to a different country each year."
+            },
+            {
+                "german": "verrückt",
+                "translation": "crazy",
+                "sentence": "Manchmal wirkt seine verrückte Art sehr erfrischend im Büro.",
+                "sentence_translation": "Sometimes his crazy way of being is very refreshing in the office."
+            },
+            {
+                "german": "beginnen, beginnt, begann, hat begonnen",
+                "translation": "to begin",
+                "sentence": "Der Kurs beginnt um 9 Uhr morgens und verspricht interessante Inhalte.",
+                "sentence_translation": "The course begins at 9 a.m. and promises interesting content."
+            },
+            {
+                "german": "benutzen, benutzt, benutzte, hat benutzt",
+                "translation": "to use",
+                "sentence": "Bitte benutze das weiße Brett für deine Notizen während der Präsentation.",
+                "sentence_translation": "Please use the whiteboard for your notes during the presentation."
+            },
+            {
+                "german": "bestehen, besteht, bestand, hat bestanden",
+                "translation": "to pass; to exist",
+                "sentence": "Trotz der Schwierigkeiten hat sie die Prüfung mit Bravour bestanden.",
+                "sentence_translation": "Despite the difficulties, she passed the exam with flying colors."
+            },
+            {
+                "german": "bestellen, bestellt, bestellte, hat bestellt",
+                "translation": "to order",
+                "sentence": "Wir haben gestern Abend Pizza bestellt, aber sie kamen nicht rechtzeitig.",
+                "sentence_translation": "We ordered pizza last night, but it didn't arrive on time."
+            },
+            {
+                "german": "empfehlen, empfiehlt, empfahl, hat empfohlen",
+                "translation": "to recommend",
+                "sentence": "Der Lehrer hat mir ein gutes Buch empfohlen, das meine Sprachkenntnisse verbessert hat.",
+                "sentence_translation": "The teacher recommended a good book to me that improved my language skills."
+            },
+            {
+                "german": "erzählen, erzählt, erzählte, hat erzählt",
+                "translation": "to tell",
+                "sentence": "Sie erzählte eine lustige Geschichte, die alle zum Lachen brachte.",
+                "sentence_translation": "She told a funny story that made everyone laugh."
+            },
+            {
+                "german": "essen, isst, aß, hat gegessen",
+                "translation": "to eat",
+                "sentence": "Am Wochenende essen wir oft gemeinsam im Lieblingsrestaurant.",
+                "sentence_translation": "On weekends, we often eat together at our favorite restaurant."
+            },
+            {
+                "german": "fallen, fällt, fiel, ist gefallen",
+                "translation": "to fall",
+                "sentence": "Im Herbst fallen die Blätter von den Bäumen und bedecken den Boden.",
+                "sentence_translation": "In autumn, the leaves fall from the trees and cover the ground."
+            },
+            {
+                "german": "folgen, folgt, folgte, ist gefolgt",
+                "translation": "to follow",
+                "sentence": "Bitte folge mir, ich zeige dir den Weg zum Museum.",
+                "sentence_translation": "Please follow me, I'll show you the way to the museum."
+            },
+            {
+                "german": "frieren, friert, fror, hat gefroren",
+                "translation": "to freeze",
+                "sentence": "Im Winter friert das Wasser im See komplett zu.",
+                "sentence_translation": "In winter, the water in the lake freezes completely."
+            },
+            {
+                "german": "halten, hält, hielt, hat gehalten",
+                "translation": "to hold; to stop",
+                "sentence": "Bitte halte die Tür auf, damit ich reinkommen kann.",
+                "sentence_translation": "Please hold the door open so I can come in."
+            },
+            {
+                "german": "kennen, kennt, kannte, hat gekannt",
+                "translation": "to know",
+                "sentence": "Kennen Sie jemanden, der Deutsch spricht? Ich brauche Hilfe.",
+                "sentence_translation": "Do you know someone who speaks German? I need help."
+            },
+            {
+                "german": "müssen, muss, musste, hat gemusst",
+                "translation": "must; to have to",
+                "sentence": "Wir müssen heute Abend noch die Einkäufe erledigen.",
+                "sentence_translation": "We have to do the shopping tonight."
+            },
+            {
+                "german": "mögen, mag, mochte, hat gemocht",
+                "translation": "to like",
+                "sentence": "Sie mag es, neue Rezepte auszuprobieren und zu kochen.",
+                "sentence_translation": "She likes trying out new recipes and cooking."
+            },
+            {
+                "german": "steigen, steigt, stieg, ist gestiegen",
+                "translation": "to climb; to rise",
+                "sentence": "Die Preise für Wohnraum sind in den letzten Jahren stark gestiegen.",
+                "sentence_translation": "Housing prices have risen sharply in recent years."
+            },
+            {
+                "german": "wollen, will, wollte, hat gewollt",
+                "translation": "to want",
+                "sentence": "Sie will eine Karriere in der Kunstbranche machen.",
+                "sentence_translation": "She wants to pursue a career in the art industry."
+            },
+            {
+                "german": "die Zufriedenheit, -en",
+                "translation": "satisfaction",
+                "sentence": "Die Zufriedenheit der Kunden steht bei uns an erster Stelle.",
+                "sentence_translation": "Customer satisfaction is our top priority."
+            }
+        ]
+    }
+]

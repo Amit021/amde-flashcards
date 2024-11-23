@@ -1,0 +1,307 @@
+[
+    {
+        "stack_name": "B1.1 Basic 3",
+        "words": [
+            {
+                "german": "kämpfen, kämpft, kämpfte, hat gekämpft",
+                "translation": "to fight",
+                "sentence": "Er kämpft jeden Tag gegen seine Angst und gibt niemals auf.",
+                "sentence_translation": "He fights against his fear every day and never gives up."
+            },
+            {
+                "german": "investieren, investiert, investierte, hat investiert",
+                "translation": "to invest",
+                "sentence": "Sie hat viel Zeit in dieses Projekt investiert und hofft nun auf Erfolg.",
+                "sentence_translation": "She invested a lot of time in this project and now hopes for success."
+            },
+            {
+                "german": "lachen, lacht, lachte, hat gelacht",
+                "translation": "to laugh",
+                "sentence": "Gemeinsam mit Freunden zu lachen ist die beste Medizin gegen Stress.",
+                "sentence_translation": "Laughing together with friends is the best medicine against stress."
+            },
+            {
+                "german": "das Ding, -e",
+                "translation": "thing",
+                "sentence": "Manchmal sind es die kleinen Dinge im Leben, die uns am glücklichsten machen.",
+                "sentence_translation": "Sometimes it's the little things in life that make us happiest."
+            },
+            {
+                "german": "beenden, beendet, beendete, hat beendet",
+                "translation": "to finish; to end",
+                "sentence": "Sie hat beschlossen, die ungesunde Beziehung zu beenden.",
+                "sentence_translation": "She decided to end the unhealthy relationship."
+            },
+            {
+                "german": "hören, hört, hörte, hat gehört",
+                "translation": "to hear; to listen",
+                "sentence": "Ich habe gehört, dass du eine neue Stelle gefunden hast – herzlichen Glückwunsch!",
+                "sentence_translation": "I heard that you found a new job – congratulations!"
+            },
+            {
+                "german": "unterrichten, unterrichtet, unterrichtete, hat unterrichtet",
+                "translation": "to teach",
+                "sentence": "Sie unterrichtet mit so viel Leidenschaft, dass die Schüler begeistert sind.",
+                "sentence_translation": "She teaches with such passion that the students are enthusiastic."
+            },
+            {
+                "german": "interessieren, interessiert, interessierte, hat interessiert",
+                "translation": "to interest",
+                "sentence": "Mich interessieren andere Kulturen sehr, deshalb reise ich gern.",
+                "sentence_translation": "I am very interested in other cultures, that's why I like to travel."
+            },
+            {
+                "german": "das Wetter",
+                "translation": "weather",
+                "sentence": "Bei diesem schönen Wetter möchte ich am liebsten draußen spazieren gehen.",
+                "sentence_translation": "In this beautiful weather, I would love to go for a walk outside."
+            },
+            {
+                "german": "gewinnen, gewinnt, gewann, hat gewonnen",
+                "translation": "to win",
+                "sentence": "Nach harter Arbeit hat unser Team endlich das Turnier gewonnen.",
+                "sentence_translation": "After hard work, our team finally won the tournament."
+            },
+            {
+                "german": "malen, malt, malte, hat gemalt",
+                "translation": "to paint",
+                "sentence": "Wenn sie malt, vergisst sie die Zeit und taucht in ihre eigene Welt ein.",
+                "sentence_translation": "When she paints, she forgets the time and immerses herself in her own world."
+            },
+            {
+                "german": "die Erfahrung, -en",
+                "translation": "experience",
+                "sentence": "Diese Reise war eine wertvolle Erfahrung, die ich nie vergessen werde.",
+                "sentence_translation": "This trip was a valuable experience that I will never forget."
+            },
+            {
+                "german": "fahren, fährt, fuhr, ist gefahren",
+                "translation": "to drive; to go",
+                "sentence": "Er fährt jeden Morgen mit dem Fahrrad zur Arbeit, um fit zu bleiben.",
+                "sentence_translation": "He rides his bike to work every morning to stay fit."
+            },
+            {
+                "german": "der Hund, -e",
+                "translation": "dog",
+                "sentence": "Mein Hund bringt mich immer zum Lachen, egal wie schlecht der Tag war.",
+                "sentence_translation": "My dog always makes me laugh, no matter how bad the day was."
+            },
+            {
+                "german": "nehmen, nimmt, nahm, hat genommen",
+                "translation": "to take",
+                "sentence": "Sie nahm all ihren Mut zusammen und sprach vor der ganzen Klasse.",
+                "sentence_translation": "She gathered all her courage and spoke in front of the whole class."
+            },
+            {
+                "german": "sehen, sieht, sah, hat gesehen",
+                "translation": "to see",
+                "sentence": "Als er das Meer zum ersten Mal sah, war er überwältigt von seiner Schönheit.",
+                "sentence_translation": "When he saw the sea for the first time, he was overwhelmed by its beauty."
+            },
+            {
+                "german": "der Garten, -\"e",
+                "translation": "garden",
+                "sentence": "Im Sommer verbringe ich viel Zeit in meinem Garten und genieße die Natur.",
+                "sentence_translation": "In summer, I spend a lot of time in my garden enjoying nature."
+            },
+            {
+                "german": "trainieren, trainiert, trainierte, hat trainiert",
+                "translation": "to train",
+                "sentence": "Er trainiert hart für den Marathon, sein Ehrgeiz ist bewundernswert.",
+                "sentence_translation": "He trains hard for the marathon; his ambition is admirable."
+            },
+            {
+                "german": "bauen, baut, baute, hat gebaut",
+                "translation": "to build",
+                "sentence": "Sie haben ihr Haus selbst gebaut und sind stolz auf das Ergebnis.",
+                "sentence_translation": "They built their house themselves and are proud of the result."
+            },
+            {
+                "german": "die Mutter, Mütter",
+                "translation": "mother",
+                "sentence": "Meine Mutter ist meine größte Unterstützerin und immer für mich da.",
+                "sentence_translation": "My mother is my greatest supporter and always there for me."
+            },
+            {
+                "german": "öffnen, öffnet, öffnete, hat geöffnet",
+                "translation": "to open",
+                "sentence": "Wenn sich eine Tür schließt, öffnet sich eine andere.",
+                "sentence_translation": "When one door closes, another one opens."
+            },
+            {
+                "german": "schlafen, schläft, schlief, hat geschlafen",
+                "translation": "to sleep",
+                "sentence": "Nach einem langen Tag schlief er sofort ein und träumte süß.",
+                "sentence_translation": "After a long day, he fell asleep immediately and dreamed sweetly."
+            },
+            {
+                "german": "entwickeln, entwickelt, entwickelte, hat entwickelt",
+                "translation": "to develop",
+                "sentence": "Die Firma entwickelt innovative Lösungen für globale Probleme.",
+                "sentence_translation": "The company develops innovative solutions for global problems."
+            },
+            {
+                "german": "warten, wartet, wartete, hat gewartet",
+                "translation": "to wait",
+                "sentence": "Geduld ist wichtig, manchmal muss man auf die besten Dinge warten.",
+                "sentence_translation": "Patience is important; sometimes you have to wait for the best things."
+            },
+            {
+                "german": "fragen, fragt, fragte, hat gefragt",
+                "translation": "to ask",
+                "sentence": "Wer nicht fragt, bleibt dumm, sagt ein bekanntes Sprichwort.",
+                "sentence_translation": "He who doesn't ask remains ignorant, says a well-known proverb."
+            },
+            {
+                "german": "informieren, informiert, informierte, hat informiert",
+                "translation": "to inform",
+                "sentence": "Bitte informieren Sie mich rechtzeitig über Änderungen des Plans.",
+                "sentence_translation": "Please inform me in good time about changes to the plan."
+            },
+            {
+                "german": "verlieren, verliert, verlor, hat verloren",
+                "translation": "to lose",
+                "sentence": "Auch wenn du verlierst, kannst du aus der Erfahrung lernen.",
+                "sentence_translation": "Even if you lose, you can learn from the experience."
+            },
+            {
+                "german": "der Zug, Züge",
+                "translation": "train",
+                "sentence": "Der Zug hatte Verspätung, was ihn leider seinen Termin kostete.",
+                "sentence_translation": "The train was delayed, which unfortunately made him miss his appointment."
+            },
+            {
+                "german": "lernen, lernt, lernte, hat gelernt",
+                "translation": "to learn",
+                "sentence": "Man lernt nie aus, das Leben hält immer neue Lektionen bereit.",
+                "sentence_translation": "You never stop learning; life always has new lessons in store."
+            },
+            {
+                "german": "arbeiten, arbeitet, arbeitete, hat gearbeitet",
+                "translation": "to work",
+                "sentence": "Er arbeitet hart, um seine Träume zu verwirklichen.",
+                "sentence_translation": "He works hard to make his dreams come true."
+            },
+            {
+                "german": "der Sport",
+                "translation": "sport",
+                "sentence": "Sport ist ein guter Ausgleich zum stressigen Alltag.",
+                "sentence_translation": "Sport is a good balance to stressful everyday life."
+            },
+            {
+                "german": "reden, redet, redete, hat geredet",
+                "translation": "to talk",
+                "sentence": "Wir müssen miteinander reden, um das Missverständnis zu klären.",
+                "sentence_translation": "We need to talk to clear up the misunderstanding."
+            },
+            {
+                "german": "nennen, nennt, nannte, hat genannt",
+                "translation": "to name; to call",
+                "sentence": "Man nennt ihn den 'Problemlöser', weil er immer eine Lösung findet.",
+                "sentence_translation": "They call him the 'problem solver' because he always finds a solution."
+            },
+            {
+                "german": "außer",
+                "translation": "except; besides",
+                "sentence": "Außer dir hat niemand an meinen Geburtstag gedacht.",
+                "sentence_translation": "Except for you, no one remembered my birthday."
+            },
+            {
+                "german": "geben, gibt, gab, hat gegeben",
+                "translation": "to give",
+                "sentence": "Es gibt nichts Schöneres, als anderen eine Freude zu geben.",
+                "sentence_translation": "There is nothing nicer than giving joy to others."
+            },
+            {
+                "german": "lesen, liest, las, hat gelesen",
+                "translation": "to read",
+                "sentence": "Sie liest jeden Abend vor dem Schlafengehen ein Buch.",
+                "sentence_translation": "She reads a book every evening before going to sleep."
+            },
+            {
+                "german": "tanzen, tanzt, tanzte, hat getanzt",
+                "translation": "to dance",
+                "sentence": "Beim Tanzen vergesse ich alle meine Sorgen.",
+                "sentence_translation": "When dancing, I forget all my worries."
+            },
+            {
+                "german": "reisen, reist, reiste, ist gereist",
+                "translation": "to travel",
+                "sentence": "Er reist um die Welt, um neue Kulturen zu entdecken.",
+                "sentence_translation": "He travels the world to discover new cultures."
+            },
+            {
+                "german": "lieben, liebt, liebte, hat geliebt",
+                "translation": "to love",
+                "sentence": "Sie liebt ihn von ganzem Herzen, trotz aller Schwierigkeiten.",
+                "sentence_translation": "She loves him with all her heart, despite all difficulties."
+            },
+            {
+                "german": "wohnen, wohnt, wohnte, hat gewohnt",
+                "translation": "to live",
+                "sentence": "Er wohnt in einer kleinen Wohnung mit Blick auf den See.",
+                "sentence_translation": "He lives in a small apartment overlooking the lake."
+            },
+            {
+                "german": "der Arzt, Ärzte",
+                "translation": "doctor",
+                "sentence": "Der Arzt riet ihm, mehr auf seine Gesundheit zu achten.",
+                "sentence_translation": "The doctor advised him to pay more attention to his health."
+            },
+            {
+                "german": "der Bleistift, -e",
+                "translation": "pencil",
+                "sentence": "Mit einem Bleistift kann man Fehler leicht ausradieren.",
+                "sentence_translation": "With a pencil, you can easily erase mistakes."
+            },
+            {
+                "german": "motivieren, motiviert, motivierte, hat motiviert",
+                "translation": "to motivate",
+                "sentence": "Der Trainer motiviert die Spieler vor jedem Spiel mit einer Rede.",
+                "sentence_translation": "The coach motivates the players before each game with a speech."
+            },
+            {
+                "german": "züchten, züchtet, züchtete, hat gezüchtet",
+                "translation": "to breed",
+                "sentence": "Er züchtet seltene Pflanzen in seinem Garten.",
+                "sentence_translation": "He breeds rare plants in his garden."
+            },
+            {
+                "german": "lächeln, lächelt, lächelte, hat gelächelt",
+                "translation": "to smile",
+                "sentence": "Sie lächelte ihn an, und er vergaß all seine Sorgen.",
+                "sentence_translation": "She smiled at him, and he forgot all his worries."
+            },
+            {
+                "german": "hassen, hasst, hasste, hat gehasst",
+                "translation": "to hate",
+                "sentence": "Er hat es immer gehasst, früh aufzustehen.",
+                "sentence_translation": "He always hated getting up early."
+            },
+            {
+                "german": "nutzen, nutzt, nutzte, hat genutzt",
+                "translation": "to use",
+                "sentence": "Er nutzt jede Gelegenheit, um Deutsch zu sprechen.",
+                "sentence_translation": "He uses every opportunity to speak German."
+            },
+            {
+                "german": "teilnehmen, nimmt teil, nahm teil, hat teilgenommen",
+                "translation": "to participate",
+                "sentence": "Er hat an dem Wettbewerb teilgenommen und den ersten Platz gewonnen.",
+                "sentence_translation": "He participated in the competition and won first place."
+            },
+            {
+                "german": "untersuchen, untersucht, untersuchte, hat untersucht",
+                "translation": "to examine",
+                "sentence": "Der Arzt untersucht den Patienten gründlich.",
+                "sentence_translation": "The doctor examines the patient thoroughly."
+            },
+            {
+                "german": "überlegen, überlegt, überlegte, hat überlegt",
+                "translation": "to consider",
+                "sentence": "Sie hat lange überlegt, bevor sie die Entscheidung traf.",
+                "sentence_translation": "She thought for a long time before making the decision."
+            }
+        ]
+    }
+]

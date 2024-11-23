@@ -1,0 +1,307 @@
+[
+    {
+        "stack_name": "B1.1 Basic 2",
+        "words": [
+            {
+                "german": "abfahren, fährt ab, fuhr ab, ist abgefahren",
+                "translation": "to depart",
+                "sentence": "Der Zug fährt um Punkt acht Uhr ab, also beeil dich!",
+                "sentence_translation": "The train departs at exactly eight o'clock, so hurry up!"
+            },
+            {
+                "german": "die Angst, Ängste",
+                "translation": "fear",
+                "sentence": "Seine größte Angst ist es, vor Publikum zu sprechen.",
+                "sentence_translation": "His greatest fear is speaking in front of an audience."
+            },
+            {
+                "german": "aber",
+                "translation": "but",
+                "sentence": "Ich wollte kommen, aber ich habe den letzten Bus verpasst.",
+                "sentence_translation": "I wanted to come, but I missed the last bus."
+            },
+            {
+                "german": "damit",
+                "translation": "so that; with it",
+                "sentence": "Er spart Geld, damit er ein neues Fahrrad kaufen kann.",
+                "sentence_translation": "He is saving money so that he can buy a new bicycle."
+            },
+            {
+                "german": "eifersüchtig",
+                "translation": "jealous",
+                "sentence": "Sie wurde eifersüchtig, als sie ihn mit einer anderen Frau sah.",
+                "sentence_translation": "She became jealous when she saw him with another woman."
+            },
+            {
+                "german": "fahren, fährt, fuhr ab, ist gefahren",
+                "translation": "to drive; to go",
+                "sentence": "Wir fahren dieses Jahr mit dem Auto nach Spanien.",
+                "sentence_translation": "We are driving to Spain by car this year."
+            },
+            {
+                "german": "gar",
+                "translation": "at all",
+                "sentence": "Er hat gar keine Lust, heute zur Arbeit zu gehen.",
+                "sentence_translation": "He doesn't feel like going to work at all today."
+            },
+            {
+                "german": "das Haus, Häuser",
+                "translation": "house",
+                "sentence": "Sie haben ein altes Haus gekauft und renovieren es jetzt.",
+                "sentence_translation": "They bought an old house and are now renovating it."
+            },
+            {
+                "german": "ihr",
+                "translation": "her; their",
+                "sentence": "Ihr Auto ist in der Werkstatt, deshalb nimmt sie den Bus.",
+                "sentence_translation": "Her car is in the workshop, so she takes the bus."
+            },
+            {
+                "german": "jedenfalls",
+                "translation": "in any case",
+                "sentence": "Wir sollten ihn einladen; jedenfalls hat er uns eingeladen.",
+                "sentence_translation": "We should invite him; in any case, he invited us."
+            },
+            {
+                "german": "kalt",
+                "translation": "cold",
+                "sentence": "Heute ist es so kalt, dass der See zugefroren ist.",
+                "sentence_translation": "Today it is so cold that the lake is frozen over."
+            },
+            {
+                "german": "laufen, läuft, lief, ist gelaufen",
+                "translation": "to run; to walk",
+                "sentence": "Er läuft jeden Morgen fünf Kilometer, um fit zu bleiben.",
+                "sentence_translation": "He runs five kilometers every morning to stay fit."
+            },
+            {
+                "german": "manchmal",
+                "translation": "sometimes",
+                "sentence": "Manchmal denke ich darüber nach, auszuwandern.",
+                "sentence_translation": "Sometimes I think about emigrating."
+            },
+            {
+                "german": "neu",
+                "translation": "new",
+                "sentence": "Sie hat ein neues Handy gekauft, weil das alte kaputt war.",
+                "sentence_translation": "She bought a new phone because the old one was broken."
+            },
+            {
+                "german": "obwohl",
+                "translation": "although",
+                "sentence": "Obwohl es regnet, gehen wir spazieren.",
+                "sentence_translation": "Although it's raining, we're going for a walk."
+            },
+            {
+                "german": "probieren, probiert, probierte, hat probiert",
+                "translation": "to try",
+                "sentence": "Du solltest das exotische Gericht probieren, es schmeckt hervorragend.",
+                "sentence_translation": "You should try the exotic dish; it tastes excellent."
+            },
+            {
+                "german": "die Qualität, -en",
+                "translation": "quality",
+                "sentence": "Die Qualität dieses Stoffes ist außergewöhnlich gut.",
+                "sentence_translation": "The quality of this fabric is exceptionally good."
+            },
+            {
+                "german": "ruhig",
+                "translation": "quiet; calm",
+                "sentence": "In dieser Gegend ist es nachts sehr ruhig.",
+                "sentence_translation": "In this area, it's very quiet at night."
+            },
+            {
+                "german": "das Spiel, -e",
+                "translation": "game",
+                "sentence": "Das Spiel war spannend bis zur letzten Minute.",
+                "sentence_translation": "The game was exciting until the last minute."
+            },
+            {
+                "german": "trotzdem",
+                "translation": "nevertheless",
+                "sentence": "Es war kalt, aber wir sind trotzdem schwimmen gegangen.",
+                "sentence_translation": "It was cold, but we went swimming nevertheless."
+            },
+            {
+                "german": "unbedingt",
+                "translation": "absolutely",
+                "sentence": "Ich muss unbedingt noch Milch kaufen.",
+                "sentence_translation": "I absolutely must buy milk."
+            },
+            {
+                "german": "versuchen, versucht, versuchte, hat versucht",
+                "translation": "to try",
+                "sentence": "Er hat versucht, sie anzurufen, aber sie ging nicht ran.",
+                "sentence_translation": "He tried to call her, but she didn't answer."
+            },
+            {
+                "german": "wichtig",
+                "translation": "important",
+                "sentence": "Es ist wichtig, genug Schlaf zu bekommen.",
+                "sentence_translation": "It's important to get enough sleep."
+            },
+            {
+                "german": "x-mal",
+                "translation": "umpteen times",
+                "sentence": "Ich habe dir das schon x-mal erklärt!",
+                "sentence_translation": "I've explained that to you umpteen times!"
+            },
+            {
+                "german": "zumindest",
+                "translation": "at least",
+                "sentence": "Du könntest zumindest anrufen, wenn du später kommst.",
+                "sentence_translation": "You could at least call if you're coming later."
+            },
+            {
+                "german": "das Ziel, -e",
+                "translation": "goal; destination",
+                "sentence": "Unser Ziel ist es, bis Ende des Jahres schuldenfrei zu sein.",
+                "sentence_translation": "Our goal is to be debt-free by the end of the year."
+            },
+            {
+                "german": "allein",
+                "translation": "alone",
+                "sentence": "Er reist gern allein durch fremde Länder.",
+                "sentence_translation": "He likes traveling alone through foreign countries."
+            },
+            {
+                "german": "bringen, bringt, brachte, hat gebracht",
+                "translation": "to bring",
+                "sentence": "Kannst du bitte Brot vom Bäcker mitbringen?",
+                "sentence_translation": "Can you please bring bread from the bakery?"
+            },
+            {
+                "german": "denken, denkt, dachte, hat gedacht",
+                "translation": "to think",
+                "sentence": "Ich hätte nie gedacht, dass er so gut singen kann.",
+                "sentence_translation": "I never thought he could sing so well."
+            },
+            {
+                "german": "einfach",
+                "translation": "simple; simply",
+                "sentence": "Das Leben auf dem Land ist oft einfacher als in der Stadt.",
+                "sentence_translation": "Life in the countryside is often simpler than in the city."
+            },
+            {
+                "german": "fertig",
+                "translation": "finished",
+                "sentence": "Ich bin mit meinen Hausaufgaben noch nicht fertig.",
+                "sentence_translation": "I haven't finished my homework yet."
+            },
+            {
+                "german": "genau",
+                "translation": "exact; exactly",
+                "sentence": "Kannst du mir genau sagen, was passiert ist?",
+                "sentence_translation": "Can you tell me exactly what happened?"
+            },
+            {
+                "german": "heute",
+                "translation": "today",
+                "sentence": "Heute ist der erste Tag vom Rest deines Lebens.",
+                "sentence_translation": "Today is the first day of the rest of your life."
+            },
+            {
+                "german": "jetzt",
+                "translation": "now",
+                "sentence": "Jetzt ist der richtige Zeitpunkt, um zu handeln.",
+                "sentence_translation": "Now is the right time to act."
+            },
+            {
+                "german": "kaufen, kauft, kaufte, hat gekauft",
+                "translation": "to buy",
+                "sentence": "Sie hat ein neues Kleid gekauft, obwohl sie schon genug hat.",
+                "sentence_translation": "She bought a new dress even though she already has enough."
+            },
+            {
+                "german": "leicht",
+                "translation": "light; easy",
+                "sentence": "Der Koffer ist leicht, ich kann ihn selbst tragen.",
+                "sentence_translation": "The suitcase is light; I can carry it myself."
+            },
+            {
+                "german": "machen, macht, machte, hat gemacht",
+                "translation": "to do; to make",
+                "sentence": "Was machst du am Wochenende?",
+                "sentence_translation": "What are you doing on the weekend?"
+            },
+            {
+                "german": "oder",
+                "translation": "or",
+                "sentence": "Möchtest du Tee oder Kaffee?",
+                "sentence_translation": "Would you like tea or coffee?"
+            },
+            {
+                "german": "plötzlich",
+                "translation": "suddenly",
+                "sentence": "Plötzlich fing es an zu regnen.",
+                "sentence_translation": "Suddenly it started to rain."
+            },
+            {
+                "german": "sagen, sagt, sagte, hat gesagt",
+                "translation": "to say",
+                "sentence": "Er hat mir nie gesagt, dass er umzieht.",
+                "sentence_translation": "He never told me that he's moving."
+            },
+            {
+                "german": "treffen, trifft, traf, hat getroffen",
+                "translation": "to meet",
+                "sentence": "Wir treffen uns um sechs Uhr vor dem Kino.",
+                "sentence_translation": "We're meeting at six o'clock in front of the cinema."
+            },
+            {
+                "german": "unterwegs",
+                "translation": "on the way",
+                "sentence": "Ich bin gerade unterwegs zur Arbeit.",
+                "sentence_translation": "I'm currently on the way to work."
+            },
+            {
+                "german": "verstehen, versteht, verstand, hat verstanden",
+                "translation": "to understand",
+                "sentence": "Kannst du das bitte wiederholen? Ich habe es nicht verstanden.",
+                "sentence_translation": "Can you please repeat that? I didn't understand it."
+            },
+            {
+                "german": "wieder",
+                "translation": "again",
+                "sentence": "Ich habe schon wieder meinen Schlüssel vergessen.",
+                "sentence_translation": "I've forgotten my key again."
+            },
+            {
+                "german": "x-beliebig",
+                "translation": "any; random",
+                "sentence": "Du kannst ein x-beliebiges Buch aus dem Regal nehmen.",
+                "sentence_translation": "You can take any book from the shelf."
+            },
+            {
+                "german": "zuerst",
+                "translation": "first",
+                "sentence": "Zuerst frühstücken wir, dann gehen wir spazieren.",
+                "sentence_translation": "First we have breakfast, then we go for a walk."
+            },
+            {
+                "german": "zusammen",
+                "translation": "together",
+                "sentence": "Wir haben zusammen viel durchgemacht.",
+                "sentence_translation": "We've been through a lot together."
+            },
+            {
+                "german": "schon",
+                "translation": "already",
+                "sentence": "Bist du schon fertig?",
+                "sentence_translation": "Are you already done?"
+            },
+            {
+                "german": "schön",
+                "translation": "beautiful; nice",
+                "sentence": "Das Wetter ist heute schön.",
+                "sentence_translation": "The weather is nice today."
+            },
+            {
+                "german": "die Katze, -n",
+                "translation": "cat",
+                "sentence": "Die Katze schnurrte zufrieden, als sie gestreichelt wurde.",
+                "sentence_translation": "The cat purred contentedly when she was petted."
+            }
+        ]
+    }
+]

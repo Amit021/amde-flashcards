@@ -1,0 +1,307 @@
+[
+    {
+        "stack_name": "B1.1 Basic 5",
+        "words": [
+            {
+                "german": "versprechen, verspricht, versprach, hat versprochen",
+                "translation": "to promise",
+                "sentence": "Er hat mir versprochen, pünktlich zu sein, aber er kam wieder zu spät.",
+                "sentence_translation": "He promised me to be on time, but he was late again."
+            },
+            {
+                "german": "suchen, sucht, suchte, hat gesucht",
+                "translation": "to search; to look for",
+                "sentence": "Sie sucht seit Wochen nach einer passenden Wohnung in der Stadt.",
+                "sentence_translation": "She has been searching for a suitable apartment in the city for weeks."
+            },
+            {
+                "german": "behalten, behält, behielt, hat behalten",
+                "translation": "to keep",
+                "sentence": "Ich möchte dieses Geheimnis für mich behalten.",
+                "sentence_translation": "I want to keep this secret to myself."
+            },
+            {
+                "german": "verlassen, verlässt, verließ, hat verlassen",
+                "translation": "to leave",
+                "sentence": "Er musste das Meeting frühzeitig verlassen, weil er einen wichtigen Termin hatte.",
+                "sentence_translation": "He had to leave the meeting early because he had an important appointment."
+            },
+            {
+                "german": "der Erfolg, -e",
+                "translation": "success",
+                "sentence": "Nach harter Arbeit feierte sie endlich ihren wohlverdienten Erfolg.",
+                "sentence_translation": "After hard work, she finally celebrated her well-deserved success."
+            },
+            {
+                "german": "entdecken, entdeckt, entdeckte, hat entdeckt",
+                "translation": "to discover",
+                "sentence": "Beim Spaziergang haben wir einen schönen Park entdeckt.",
+                "sentence_translation": "During the walk, we discovered a beautiful park."
+            },
+            {
+                "german": "erklären, erklärt, erklärte, hat erklärt",
+                "translation": "to explain",
+                "sentence": "Kannst du mir bitte erklären, wie dieser Mechanismus funktioniert?",
+                "sentence_translation": "Can you please explain to me how this mechanism works?"
+            },
+            {
+                "german": "erinnern, erinnert, erinnerte, hat erinnert",
+                "translation": "to remind; to remember",
+                "sentence": "Dieses Lied erinnert mich an meine Kindheit.",
+                "sentence_translation": "This song reminds me of my childhood."
+            },
+            {
+                "german": "vergessen, vergisst, vergaß, hat vergessen",
+                "translation": "to forget",
+                "sentence": "Bitte vergiss nicht, morgen den Müll rauszubringen.",
+                "sentence_translation": "Please don't forget to take out the trash tomorrow."
+            },
+            {
+                "german": "vergleichen, vergleicht, verglich, hat verglichen",
+                "translation": "to compare",
+                "sentence": "Wenn man Preise vergleicht, kann man oft Geld sparen.",
+                "sentence_translation": "When you compare prices, you can often save money."
+            },
+            {
+                "german": "das Gefühl, -e",
+                "translation": "feeling",
+                "sentence": "Ich habe das Gefühl, dass heute ein guter Tag wird.",
+                "sentence_translation": "I have the feeling that today will be a good day."
+            },
+            {
+                "german": "die Geschichte, -n",
+                "translation": "story; history",
+                "sentence": "Die Geschichte dieses Ortes ist faszinierend und reicht weit zurück.",
+                "sentence_translation": "The history of this place is fascinating and goes back a long way."
+            },
+            {
+                "german": "die Liebe, -n",
+                "translation": "love",
+                "sentence": "Die Liebe zwischen den beiden ist unerschütterlich.",
+                "sentence_translation": "The love between the two is unshakable."
+            },
+            {
+                "german": "die Freundschaft, -en",
+                "translation": "friendship",
+                "sentence": "Eine wahre Freundschaft hält auch in schwierigen Zeiten.",
+                "sentence_translation": "A true friendship endures even in difficult times."
+            },
+            {
+                "german": "die Trauer, -n",
+                "translation": "grief",
+                "sentence": "Die Trauer um den Verlust war tief und schmerzhaft.",
+                "sentence_translation": "The grief over the loss was deep and painful."
+            },
+            {
+                "german": "die Leidenschaft, -en",
+                "translation": "passion",
+                "sentence": "Ihre Leidenschaft für das Tanzen ist unverkennbar.",
+                "sentence_translation": "Her passion for dancing is unmistakable."
+            },
+            {
+                "german": "die Begeisterung, -en",
+                "translation": "enthusiasm",
+                "sentence": "Seine Begeisterung für das neue Projekt war ansteckend.",
+                "sentence_translation": "His enthusiasm for the new project was contagious."
+            },
+            {
+                "german": "die Einsamkeit, -en",
+                "translation": "loneliness",
+                "sentence": "Einsamkeit kann selbst in vollen Menschenmengen überwältigend sein.",
+                "sentence_translation": "Loneliness can be overwhelming even in crowded places."
+            },
+            {
+                "german": "die Dankbarkeit, -en",
+                "translation": "gratitude",
+                "sentence": "Ihre Dankbarkeit für die Hilfe war offensichtlich.",
+                "sentence_translation": "Her gratitude for the help was obvious."
+            },
+            {
+                "german": "die Freude, -n",
+                "translation": "joy",
+                "sentence": "Die Freude der Kinder beim Spielen war herzerwärmend.",
+                "sentence_translation": "The children's joy while playing was heartwarming."
+            },
+            {
+                "german": "die Motivation, -en",
+                "translation": "motivation",
+                "sentence": "Ihre ständige Motivation, sich zu verbessern, beeindruckt alle um sie herum.",
+                "sentence_translation": "Her constant motivation to improve impresses everyone around her."
+            },
+            {
+                "german": "die Hoffnung, -en",
+                "translation": "hope",
+                "sentence": "Hoffnung gibt uns Kraft, auch in schwierigen Zeiten weiterzumachen.",
+                "sentence_translation": "Hope gives us strength to keep going even in difficult times."
+            },
+            {
+                "german": "die Sorge, -n",
+                "translation": "worry",
+                "sentence": "Die ständige Sorge um die Umwelt ist ein wichtiges Thema unserer Zeit.",
+                "sentence_translation": "Worry about the environment is an important topic of our time."
+            },
+            {
+                "german": "das Buch, Bücher",
+                "translation": "book",
+                "sentence": "Sie liest gerne Bücher über Geschichte und Kultur.",
+                "sentence_translation": "She likes reading books about history and culture."
+            },
+            {
+                "german": "die Angst, -en",
+                "translation": "fear",
+                "sentence": "Er kämpft täglich gegen seine Angst vor Spinnen.",
+                "sentence_translation": "He fights his fear of spiders every day."
+            },
+            {
+                "german": "die Traurigkeit, -en",
+                "translation": "sadness",
+                "sentence": "Nach dem Verlust fühlte er eine tiefe Traurigkeit.",
+                "sentence_translation": "After the loss, he felt deep sadness."
+            },
+            {
+                "german": "die Unterstützung, -en",
+                "translation": "support",
+                "sentence": "Ohne die Unterstützung meiner Freunde hätte ich es nicht geschafft.",
+                "sentence_translation": "Without the support of my friends, I wouldn't have made it."
+            },
+            {
+                "german": "gestalten, gestaltet, gestaltete, hat gestaltet",
+                "translation": "to design; to shape",
+                "sentence": "Sie hat die Ausstellung kunstvoll gestaltet und viele Besucher angezogen.",
+                "sentence_translation": "She designed the exhibition artistically and attracted many visitors."
+            },
+            {
+                "german": "ziehen, zieht, zog, hat gezogen",
+                "translation": "to pull; to move",
+                "sentence": "Die Kinder ziehen fröhlich ihre Fahrräder durch den Park.",
+                "sentence_translation": "The children are happily pulling their bikes through the park."
+            },
+            {
+                "german": "bewegen, bewegt, bewegte, hat bewegt",
+                "translation": "to move",
+                "sentence": "Die Musik hat ihn dazu bewegt, spontan zu tanzen.",
+                "sentence_translation": "The music moved him to dance spontaneously."
+            },
+            {
+                "german": "drehen, dreht, drehte, hat gedreht",
+                "translation": "to turn",
+                "sentence": "Drehe das Licht aus, bevor du das Zimmer verlässt.",
+                "sentence_translation": "Turn off the light before you leave the room."
+            },
+            {
+                "german": "studieren, studiert, studierte, hat studiert",
+                "translation": "to study",
+                "sentence": "Sie studiert Medizin, um Ärztin zu werden und anderen zu helfen.",
+                "sentence_translation": "She is studying medicine to become a doctor and help others."
+            },
+            {
+                "german": "stehlen, stiehlt, stahl, hat gestohlen",
+                "translation": "to steal",
+                "sentence": "Er wurde erwischt, wie er aus dem Geschäft stiehlt.",
+                "sentence_translation": "He was caught stealing from the store."
+            },
+            {
+                "german": "tragen, trägt, trug, hat getragen",
+                "translation": "to carry; to wear",
+                "sentence": "Sie trägt immer einen roten Schal, egal bei welchem Wetter.",
+                "sentence_translation": "She always wears a red scarf, no matter the weather."
+            },
+            {
+                "german": "rennen, rennt, rannte, ist gerannt",
+                "translation": "to run",
+                "sentence": "Sie rennt jeden Morgen fünf Kilometer, um fit zu bleiben.",
+                "sentence_translation": "She runs five kilometers every morning to stay fit."
+            },
+            {
+                "german": "stehen, steht, stand, hat gestanden",
+                "translation": "to stand",
+                "sentence": "Sie steht an der Bushaltestelle und wartet auf den nächsten Bus.",
+                "sentence_translation": "She is standing at the bus stop waiting for the next bus."
+            },
+            {
+                "german": "zählen, zählt, zählte, hat gezählt",
+                "translation": "to count",
+                "sentence": "Sie zählt die Münzen sorgfältig, bevor sie sie in die Spardose steckt.",
+                "sentence_translation": "She carefully counts the coins before putting them in the piggy bank."
+            },
+            {
+                "german": "zeichnen, zeichnet, zeichnete, hat gezeichnet",
+                "translation": "to draw",
+                "sentence": "Sie zeichnet gerne Porträts und hat bereits mehrere Ausstellungen besucht.",
+                "sentence_translation": "She likes to draw portraits and has already attended several exhibitions."
+            },
+            {
+                "german": "würfeln, würfelt, würfelte, hat gewürfelt",
+                "translation": "to roll dice",
+                "sentence": "Beim Spielen würfelten die Kinder gespannt um den Sieg.",
+                "sentence_translation": "While playing, the children eagerly rolled the dice for victory."
+            },
+            {
+                "german": "zittern, zittert, zitterte, hat gezittert",
+                "translation": "to shake; to tremble",
+                "sentence": "Vor Angst zitterte er, als er das große Publikum ansah.",
+                "sentence_translation": "Out of fear, he trembled as he looked at the large audience."
+            },
+            {
+                "german": "entstehen, entsteht, entstand, ist entstanden",
+                "translation": "to arise; to originate",
+                "sentence": "Ein neues Problem ist während des Projekts entstanden, das gelöst werden muss.",
+                "sentence_translation": "A new problem arose during the project that needs to be solved."
+            },
+            {
+                "german": "handeln, handelt, handelte, hat gehandelt",
+                "translation": "to act",
+                "sentence": "Wir müssen jetzt handeln, um die Umwelt zu schützen.",
+                "sentence_translation": "We must act now to protect the environment."
+            },
+            {
+                "german": "hängen, hängt, hing, hat gehangen",
+                "translation": "to hang",
+                "sentence": "Das Bild hängt seit Jahren an der Wand und verschönert den Raum.",
+                "sentence_translation": "The picture has been hanging on the wall for years and beautifies the room."
+            },
+            {
+                "german": "heben, hebt, hob, hat gehoben",
+                "translation": "to lift",
+                "sentence": "Er hebt schwere Kisten in die Lagerhalle, um sie zu verstauen.",
+                "sentence_translation": "He lifts heavy boxes into the warehouse to store them."
+            },
+            {
+                "german": "melden, meldet, meldete, hat gemeldet",
+                "translation": "to report; to register",
+                "sentence": "Bitte melde dich beim Empfang, wenn du angekommen bist.",
+                "sentence_translation": "Please report to the reception when you have arrived."
+            },
+            {
+                "german": "rufen, ruft, rief, hat gerufen",
+                "translation": "to call",
+                "sentence": "Er hat laut gerufen, um seine Freunde auf sich aufmerksam zu machen.",
+                "sentence_translation": "He called loudly to get his friends' attention."
+            },
+            {
+                "german": "zuverlässig, zuverlässig, zuverlässig, ist zuverlässig",
+                "translation": "reliable",
+                "sentence": "Sie ist eine sehr zuverlässige Kollegin, auf die man sich immer verlassen kann.",
+                "sentence_translation": "She is a very reliable colleague who can always be counted on."
+            },
+            {
+                "german": "wechseln, wechselt, wechselte, hat gewechselt",
+                "translation": "to change",
+                "sentence": "Er möchte seinen Job wechseln, um neue Herausforderungen zu suchen.",
+                "sentence_translation": "He wants to change his job to seek new challenges."
+            },
+            {
+                "german": "verbringen, verbringt, verbrachte, hat verbracht",
+                "translation": "to spend (time)",
+                "sentence": "Wir verbringen gerne unsere Freizeit mit Lesen und Wandern.",
+                "sentence_translation": "We like to spend our free time reading and hiking."
+            },
+            {
+                "german": "wissen, weiß, wusste, hat gewusst",
+                "translation": "to know",
+                "sentence": "Ich wusste nicht, dass du auch gerne singst.",
+                "sentence_translation": "I didn't know that you also like singing."
+            }
+        ]
+    }
+]
